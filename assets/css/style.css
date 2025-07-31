@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Inter';
-    src: url('../Fonts/Inter/Inter-Variable.woff2') format('woff2'),
-        url('../Fonts/Inter/Inter-Variable.woff') format('woff');
+    src: url('../fonts/Inter/Inter-Variable.woff2') format('woff2'),
+        url('../fonts/Inter/Inter-Variable.woff') format('woff');
     font-style: normal;
     font-display: swap;
 }
@@ -15,7 +15,7 @@
 } */
 @font-face {
     font-family: 'Tobias';
-    src: url('../Fonts/Tobias/Tobias-Light.woff2') format('woff2');
+    src: url('../fonts/Tobias/Tobias-Light.woff2') format('woff2');
     font-weight: 300;
     font-display: swap;
     font-style: normal;
@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: 'Tobias';
-    src: url('../Fonts/Tobias/Tobias-Regular.woff2') format('woff2');
+    src: url('../fonts/Tobias/Tobias-Regular.woff2') format('woff2');
     font-weight: 400;
     font-display: swap;
     font-style: normal;
@@ -32,15 +32,15 @@
 
 @font-face {
     font-family: 'Gambetta';
-    src: url('../Fonts/Grambetta/Gambetta-Variable.woff2') format('woff2'),
-        url('../Fonts/Grambetta/Gambetta-Variable.woff') format('woff'), ;
+    src: url('../fonts/Grambetta/Gambetta-Variable.woff2') format('woff2'),
+        url('../fonts/Grambetta/Gambetta-Variable.woff') format('woff'), ;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Gambetta-italic';
-    src: url('../Fonts/Grambetta/Gambetta-VariableItalic.woff2') format('woff2'),
-        url('../Fonts/Grambetta/Gambetta-VariableItalic.woff') format('woff'), ;
+    src: url('../fonts/Grambetta/Gambetta-VariableItalic.woff2') format('woff2'),
+        url('../fonts/Grambetta/Gambetta-VariableItalic.woff') format('woff'), ;
     font-display: swap;
     font-style: italic;
 }
